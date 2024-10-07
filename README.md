@@ -1,4 +1,4 @@
-# Projeto_cd
+# Projeto - Desgaste de Pastilha de Freio
 
 Neste projeto, abordamos um problema real da indústria rodoviária: a previsão da quilometragem restante até a troca das pastilhas de freio. O desgaste das pastilhas é crucial para a segurança dos veículos, e prever quando a troca é necessária pode ajudar na manutenção preventiva, reduzindo custos e aumentando a segurança.
 
