@@ -1,9 +1,5 @@
 # Projeto_cd
 
-Peço desculpas pela omissão! Aqui está a versão revisada, agora com a inclusão da transformação logarítmica de forma adequada:
-
-### Resumo da História do Código
-
 Neste projeto, abordamos um problema real da indústria rodoviária: a previsão da quilometragem restante até a troca das pastilhas de freio. O desgaste das pastilhas é crucial para a segurança dos veículos, e prever quando a troca é necessária pode ajudar na manutenção preventiva, reduzindo custos e aumentando a segurança.
 
 Começamos importando as bibliotecas necessárias, como `numpy`, `pandas`, `matplotlib` e `seaborn`, para manipulação de dados e visualização. Em seguida, carregamos o dataset a partir de um arquivo CSV, realizando ajustes para garantir que os dados numéricos fossem interpretados corretamente.
